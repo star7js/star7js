@@ -12,11 +12,9 @@ I work extensively with Atlassian tools, specializing in Jira workflows and auto
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=star7js&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star7js&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star7js&theme=github-dark-blue&hide_border=true)
+![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ## Activity
 
