@@ -4,7 +4,7 @@ Developer and builder focused on creating tools that solve real problems.
 
 ## About
 
-I work extensively with Atlassian tools, specializing in Jira workflows and automation. My interests span automation, mobile development, AI/ML, physical hardware. I enjoy building systems that make complex tasks simple.
+I work extensively with Atlassian tools, specializing in Jira workflows and automation. My interests span automation, mobile development, AI/ML, and physical hardware. I enjoy building systems that make complex tasks simple.
 
 ## Tech Stack
 
