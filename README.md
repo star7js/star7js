@@ -10,11 +10,6 @@ I work extensively with Atlassian tools, specializing in Jira workflows and auto
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
 
-## GitHub Stats
-
-![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/star7js/star7js/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ## Activity
 
