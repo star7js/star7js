@@ -12,13 +12,11 @@ I work extensively with Atlassian tools, specializing in Jira workflows and auto
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=star7js&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=star7js&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star7js&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star7js&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star7js&theme=github-dark-blue&hide_border=true)
 
 ## Activity
 
