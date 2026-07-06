@@ -1,6 +1,6 @@
 # Hey, I'm Josh
 
-Jira & Atlassian automation specialist who builds systems that make complex tasks simple.
+Developer and builder focused on creating tools that solve real problems.
 
 ## About
 
