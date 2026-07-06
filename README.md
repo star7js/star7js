@@ -1,10 +1,10 @@
 # Hey, I'm Josh
 
-Developer and builder focused on creating tools that solve real problems.
+Jira & Atlassian automation specialist who builds systems that make complex tasks simple.
 
 ## About
 
-I work extensively with Atlassian tools, specializing in Jira workflows and automation. My interests span automation, mobile development, AI/ML, and physical hardware. I enjoy building systems that make complex tasks simple.
+I work extensively across the Atlassian stack — Jira workflows, automation, and ScriptRunner. Beyond that, I build in mobile, AI/ML, and physical hardware (Arduino, ESP32, Raspberry Pi).
 
 ## Tech Stack
 
