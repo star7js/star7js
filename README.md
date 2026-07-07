@@ -1,6 +1,6 @@
 # Hey, I'm Josh
 
-I work extensively across the Atlassian stack — Jira workflows, automation, and ScriptRunner. Beyond that, I build in mobile, AI/ML, and physical hardware (Arduino, ESP32, Raspberry Pi).
+I work across the Atlassian stack — Jira workflows, automation, and ScriptRunner. Beyond that, I build in mobile, AI/ML, and physical hardware (Arduino, ESP32, Raspberry Pi).
 
 ## Tech Stack
 
