@@ -30,4 +30,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: dist
+          pull: --rebase --autostash  # the snake and graph jobs both push dist/; rebase onto whichever landed first
           message: "Update activity graph"
